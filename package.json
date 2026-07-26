@@ -1,0 +1,5 @@
+{
+  "name": "kenes",
+  "private": true,
+  "workspaces": ["frontend", "backend"]
+}
